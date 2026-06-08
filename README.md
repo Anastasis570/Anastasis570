@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Anastasis570/Anastasis570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Anastasia (@Anastasis570) — frontend developer.
 
-Here are some ideas to get you started:
+👀 I work with React, Vue, TypeScript, Next.js and Nuxt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚽ My experience includes sports tech products: live scores, match statistics, sports data interfaces, and web tools for fans who want to follow the game in real time.
+
+🌱 I’m currently exploring backend development: Golang, PostgreSQL and ORM tools.
+
+💞️ I’m open to interesting international projects, especially in sports tech, modern web apps, and product-driven development.
+
+📫 You can reach me by email or via Telegram.
+
+🙈 Most of my code lives in private company repositories, but I regularly test ideas and build small projects in online sandboxes.
+
+💡 Code matters, but useful ideas and real implementation matter even more.
